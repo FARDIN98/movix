@@ -2,6 +2,10 @@
 
 Movix is a dynamic web application that provides users with comprehensive information about movies and TV shows. By leveraging the power of The Movie Database (TMDb) API, Movix offers an intuitive and engaging platform for entertainment enthusiasts to explore and discover content.
 
+## Preview
+
+![Movix Screenshot](screencapture-movix-sites-vercel-app-2025-02-14-23_27_12.png)
+
 ## Features
 
 - **Search Functionality**: Quickly find movies and TV shows by title, genre, or keyword.

@@ -4,7 +4,7 @@ Movix is a dynamic web application that provides users with comprehensive inform
 
 ## Preview
 
-![Movix Screenshot](assets/screenshot.png)
+![Movix Screenshot](src/assets/screenshot.png)
 
 ## Features
 

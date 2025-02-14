@@ -2,10 +2,6 @@
 
 Movix is a dynamic web application that provides users with comprehensive information about movies and TV shows. By leveraging the power of The Movie Database (TMDb) API, Movix offers an intuitive and engaging platform for entertainment enthusiasts to explore and discover content.
 
-## Preview
-
-![Movix Screenshot](src/assets/screenshot.png)
-
 ## Features
 
 - **Search Functionality**: Quickly find movies and TV shows by title, genre, or keyword.
@@ -26,6 +22,10 @@ Movix is built using the following technologies:
 - **TMDb API**: Provides access to a vast database of movie and TV show information.
 - **Axios**: A promise-based HTTP client for making API requests.
 - **CSS Modules**: Enables modular and maintainable styling.
+
+## Preview
+
+![Movix Screenshot](src/assets/screenshot.png)
 
 ## Getting Started
 

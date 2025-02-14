@@ -4,7 +4,7 @@ Movix is a dynamic web application that provides users with comprehensive inform
 
 ## Preview
 
-![Movix Screenshot](screencapture-movix-sites-vercel-app-2025-02-14-23_27_12.png)
+![Movix Screenshot](assets/screenshot.png)
 
 ## Features
 
